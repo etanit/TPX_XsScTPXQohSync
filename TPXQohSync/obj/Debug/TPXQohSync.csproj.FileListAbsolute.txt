@@ -1,0 +1,15 @@
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Debug\TPXQohSync.exe.config
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Debug\TPXQohSync.exe
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Debug\TPXQohSync.pdb
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Debug\INIFileParser.dll
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Debug\INIFileParser.xml
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.csprojAssemblyReference.cache
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\Interop.SAPbobsCOM.dll
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.csproj.ResolveComReference.cache
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.XsScTPXQohSync.resources
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.csproj.GenerateResource.cache
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.csproj.CoreCompileInputs.cache
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.csproj.CopyComplete
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.exe
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.pdb
+C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\obj\Debug\TPXQohSync.ProjectInstaller.resources

@@ -1,0 +1,145 @@
+﻿Installing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Installing service XsScTPXQohSync...
+Service XsScTPXQohSync has been successfully installed.
+Creating EventLog source XsScTPXQohSync in log Application...
+Committing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Uninstalling assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Removing EventLog source XsScTPXQohSync.
+Service XsScTPXQohSync is being removed from the system...
+Service XsScTPXQohSync was successfully removed from the system.
+Installing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Installing service XsScTPXQohSync...
+Service XsScTPXQohSync has been successfully installed.
+Creating EventLog source XsScTPXQohSync in log Application...
+Committing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Uninstalling assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Removing EventLog source XsScTPXQohSync.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Removing EventLog source XsScTPXQohSync.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Installing service XsScTPXQohSync...
+Creating EventLog source XsScTPXQohSync in log Application...
+Rolling back assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Restoring event log to previous state for source XsScTPXQohSync.
+Uninstalling assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Removing EventLog source XsScTPXQohSync.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Removing EventLog source XsScTPXQohSync.
+Service XsScTPXQohSync is being removed from the system...
+Service XsScTPXQohSync was successfully removed from the system.
+Installing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Installing service XsScTPXQohSync...
+Service XsScTPXQohSync has been successfully installed.
+Creating EventLog source XsScTPXQohSync in log Application...
+Committing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Uninstalling assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Removing EventLog source XsScTPXQohSync.
+Service XsScTPXQohSync is being removed from the system...
+Service XsScTPXQohSync was successfully removed from the system.
+Installing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Installing service XsScTPXQohSync...
+Service XsScTPXQohSync has been successfully installed.
+Creating EventLog source XsScTPXQohSync in log Application...
+Committing assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Uninstalling assembly 'C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\Import3\XsScTPXQohSync\TPXQohSync\TPXQohSync\bin\Release\TPXQohSync.InstallLog
+Removing EventLog source XsScTPXQohSync.
+Service XsScTPXQohSync is being removed from the system...
+Service XsScTPXQohSync was successfully removed from the system.
+Installing assembly 'C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.InstallLog
+Installing service XsScTPXQohSync...
+Service XsScTPXQohSync has been successfully installed.
+Creating EventLog source XsScTPXQohSync in log Application...
+Committing assembly 'C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.InstallLog
+Uninstalling assembly 'C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.exe
+   logfile = C:\XSD\XSD_Version\App\QoHSyncSc\TPXQohSync.InstallLog
+Removing EventLog source XsScTPXQohSync.
+Service XsScTPXQohSync is being removed from the system...
+Service XsScTPXQohSync was successfully removed from the system.
